@@ -5,3 +5,4 @@ TEDDY NGUTU.
 ## PROJECT DESCRIPTION
 MY FIRST WEEK PORTFOLIO.
 ## LINK TO LIVE SITE
+https://megatronted.github.io/My-Portofolio-1/
