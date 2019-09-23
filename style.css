@@ -1,0 +1,49 @@
+
+ body{
+    background-repeat:no-repeat;
+    background-size:cover;
+    background-image:url("https://fsa.zobj.net/crop.php?r=Q3iixWXkr_jcGBm47IQ_d0TiP-BsV50KTvkrGc5bT3FadBuvPaSUEhWgai0bWBu3FvWpQvFOGyCUxUjPxFVoLXqB1RBKoAfmQ1ADxupcQHNKbL8gviO2fUE9LtA9BqMFlvmrsipgRV1Kur7t")
+}
+
+.portfolio{
+    text-align: center;
+}
+
+.pic img{
+    border-radius: 50px;
+}
+
+h1{
+    font-size:80px;
+    color:greenyellow;
+    text-decoration:underline;
+    font-style:bold;
+}
+h2{
+    font-size:60px;
+    color:white;
+    text-decoration:underline;
+    font-style:italic;
+}
+p{
+    font-size:30px;
+    color:white;
+    font-style:italic;
+}
+h3{
+    font-size:60px;
+    color:white;
+    text-decoration:underline;
+    font-style:italic;
+}
+p{
+    font-size:30px;
+    color:white;
+    font-style:italic;
+}
+h4{
+    font-size:60px;
+    color:white;
+    text-decoration:underline;
+    font-style:italic;   
+}
